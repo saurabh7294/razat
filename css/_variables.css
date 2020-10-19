@@ -1,0 +1,31 @@
+/* @import "./fonts.css"; */
+
+html body{
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+
+}
+
+
+/* css variables */
+
+:root{
+    --primary-color: #c2c6e4;
+    --primary-color4: #c7ceff;
+    --primary-color2: #f6f1ff;
+    --primary-color3: #d9cdf1;
+    --primary-color5: #ccbee7;
+    --title-color: #ffffff;
+    --text-color: #ffffff;
+    --border-color: #ffffff;
+    --gradient-color:linear-gradient(90deg, #4458dc 0%, #854fee 100%);
+    --gradient-color3:linear-gradient(90deg, #000941 0%, #211636 100%);
+    --gradient-color2:linear-gradient(90deg, #3a0101 0%, #010522 100%);
+    --shadow-color: 0px 10px 30px rgba(224, 220, 236, 0.514);
+    --box-shadow: 0px 10px 30px rgba(223, 220, 241, 0.644);
+
+    --roboto: "roboto" ,normal;
+
+}
