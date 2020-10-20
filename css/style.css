@@ -264,7 +264,7 @@ body {
 
 
 .footer{
-    background: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.863);
     padding: 0.4rem 0;
 }
 .footer p{
