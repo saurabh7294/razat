@@ -13,4 +13,7 @@
     .first img{
         display: none;
     }
+    .imagenick img{
+        width: 80%;
+    }
 }

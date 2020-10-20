@@ -299,3 +299,31 @@ body {
     margin: auto;
     margin: 0 0.1rem;
 }
+
+
+
+
+
+
+
+.headnick h1{
+    color: white;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.imagenick img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%; 
+    filter: brightness(1.2);
+}
+/* .text2{
+    color: white;
+    font-weight: bold;
+    font-size: 170%;
+    margin-top: 25%;
+} */
+.nicknames{
+    margin-bottom: 4rem;
+}
