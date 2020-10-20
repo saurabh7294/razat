@@ -226,6 +226,13 @@ body {
     height: 12px;
 }
 
+.meme img{
+    width: 100%;
+    filter: brightness(1.1) drop-shadow(1px 8px 30px #b8b8b885);
+    margin: auto;
+    margin-top: 2rem;
+}
+
 
 .img a img{
     margin-bottom: 3rem;
