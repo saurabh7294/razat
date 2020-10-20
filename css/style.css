@@ -37,6 +37,7 @@ a:hover{
 
 
 
+
 body {
     margin: 0;
     padding: 0;
@@ -226,13 +227,15 @@ body {
 }
 
 
-
+.img a img{
+    margin-bottom: 3rem;
+}
 .img a:hover img{
-    filter: brightness(1.1) drop-shadow(1px 8px 30px #b8b8b885);
+    filter: brightness(1.15) drop-shadow(1px 8px 30px #b8b8b885);
     transform: scale(1.05);
 }
 .img1{
-    width:95%;
+    width:98%;
     margin: auto;
 }
 .title-h1{
