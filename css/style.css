@@ -255,6 +255,11 @@ body {
 .project-area{
     margin-bottom: 5rem;
 }
+.link a{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
 
 
 .footer{
