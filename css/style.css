@@ -118,7 +118,7 @@ body {
 
 .video iframe{
     display: block;
-    margin-top: 2rem;
+    margin-top: 0.7rem;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
@@ -149,10 +149,17 @@ body {
     margin-top: 5rem;
     margin-bottom: 4rem;
 }
-.text{
+.text1{
     font-family: "roboto";
     text-align: center;
     color: rgb(0, 0, 0);
+    padding-bottom: 0.7rem;
+    /* font-size: 150%; */
+}
+.text{
+    font-family: "roboto";
+    text-align: center;
+    color: rgb(255, 255, 255);
     padding-bottom: 0.7rem;
     /* font-size: 150%; */
 }
