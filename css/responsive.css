@@ -1,0 +1,13 @@
+@media only screen and (max-width: 500px){
+    .client-img{
+        margin: 0 0.1rem;
+        padding: 0 0.1rem;
+    }
+    .client{
+        margin: 0 0.1rem;
+        padding: 0 0.1rem;
+    }
+    .owl-item{
+        padding: 0rem 0rem;
+    }
+}

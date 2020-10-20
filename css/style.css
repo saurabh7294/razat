@@ -190,14 +190,14 @@ body {
 .client{
     background: #f0ecec;
     box-shadow: var(--box-shadow);
-    margin: 0.8rem 0rem;
+    margin: 0.1rem 0rem;
 }
 .client-img{
-    padding: 2rem;
+    padding: 1rem;
 }
 .about-client{
-    padding: 2rem;
-    padding-left: 2rem;
+    padding: 1rem;
+    padding-left: 1rem;
 }
 .about-client h4{
     font: normal 500 21px/20px var(--roboto);
@@ -214,7 +214,7 @@ body {
 .owl-item{
     display: flex;
     justify-content: center;
-    padding: 0 1.5rem;
+    padding: 0 1rem;
 }
 .para{
     color: rgb(255, 255, 255);
