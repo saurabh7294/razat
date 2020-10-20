@@ -121,7 +121,7 @@ body {
     margin-top: 2rem;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 90%;
     /* margin-bottom: 3rem; */
 }
 /* .vid{
@@ -139,7 +139,7 @@ body {
     padding: 1rem 0;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 90%;
 }
 
 .video-area{
@@ -196,7 +196,7 @@ body {
     padding: 2rem;
 }
 .about-client{
-    padding: 1rem;
+    padding: 2rem;
     padding-left: 2rem;
 }
 .about-client h4{
