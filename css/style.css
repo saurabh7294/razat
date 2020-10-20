@@ -184,7 +184,7 @@ body {
     margin-bottom: 3rem;
 }
 .achievement-title h1{
-    padding: 0rem 5rem;
+    /* padding: 0rem 5rem; */
     color: white;
 }
 .client{
@@ -280,4 +280,11 @@ body {
     /* font-weight: bold; */
     font-size: 100%;
     
+}
+
+
+.client-img iframe{
+    width: 100%;
+    margin: auto;
+    margin: 0 0.1rem;
 }
